@@ -47547,6 +47547,7 @@
           return this.pills;
         }
         // hacky fake option set compat
+        // eslint-disable-next-line accessor-pairs
         set selectedIndex(index) {
           const pill = this.pills[index] || null;
           this.emitSelected(pill);
