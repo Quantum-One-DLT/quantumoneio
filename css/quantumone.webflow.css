@@ -1611,7 +1611,7 @@ figcaption {
   backface-visibility: visible;
   -webkit-text-fill-color: inherit;
   transform-style: preserve-3d;
-  background-image: url('../images/nft-document.png');
+  background-image: url('../images/shutter-3d-data-center.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -1627,7 +1627,7 @@ figcaption {
   height: 90%;
   opacity: .05;
   transform-style: preserve-3d;
-  background-image: url('../images/nft-document.png');
+  background-image: url('../images/shutter-3d-data-center.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -1642,7 +1642,7 @@ figcaption {
   opacity: .31;
   filter: blur(20px);
   transform-style: preserve-3d;
-  background-image: url('../images/nft-document.png');
+  background-image: url('../images/shutter-3d-data-center.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
