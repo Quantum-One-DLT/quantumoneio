@@ -1619,7 +1619,7 @@ figcaption {
   border: 1px rgba(0, 0, 0, 0);
   border-radius: 15px;
   position: absolute;
-  transform: rotateX(-13deg)rotateY(-27deg)rotateZ(4deg)skew(2deg);
+  transform: rotateX(-13deg)rotateY(-5deg)rotateZ(4deg)skew(2deg);
 }
 
 .figure-a2 {
