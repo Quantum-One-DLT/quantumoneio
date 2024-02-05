@@ -1660,7 +1660,7 @@ figcaption {
   justify-content: center;
   align-items: center;
   display: flex;
-  transform: rotateX(16deg)rotateY(5deg)rotateZ(-1deg);
+  transform: rotateX(6deg)rotateY(2deg)rotateZ(0deg);
 }
 
 .shadow-navbar {
